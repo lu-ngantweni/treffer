@@ -1,4 +1,4 @@
-# soundscape
+# treffer
 
 Soundscape is a self-hosted, vibe coded using claude clode community-driven music streaming platform built to support and amplify local artists. Rather than competing with global streaming services, Soundscape fills a gap those platforms cannot: hyperlocal music discovery, direct artist-to-listener relationships, and region-specific features that reflect the culture and identity of a community.
 

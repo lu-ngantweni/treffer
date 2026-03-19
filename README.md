@@ -1,18 +1,10 @@
 # soundscape
 
-A new Flutter project.
+Soundscape is a self-hosted, vibe coded using claude clode community-driven music streaming platform built to support and amplify local artists. Rather than competing with global streaming services, Soundscape fills a gap those platforms cannot: hyperlocal music discovery, direct artist-to-listener relationships, and region-specific features that reflect the culture and identity of a community.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# treffer
+Core principles
+    • Community first — the platform serves local artists and listeners, not advertisers or labels
+    • Artist ownership — artists retain full rights to their music
+    • Region-aware — music, events, and discovery are anchored to place
+    • Self-hosted — full control over data, infrastructure, and costs
+    • Open to grow — architecture designed to scale as the community grows
